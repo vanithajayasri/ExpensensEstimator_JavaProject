@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:38 -0700] "POST /exspenses_java_project/SignUpPath HTTP/1.1" 200 3607
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:40 -0700] "POST /exspenses_java_project/SignUpPath HTTP/1.1" 200 3607
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:41 -0700] "POST /exspenses_java_project/SignUpPath HTTP/1.1" 200 3607
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:42 -0700] "POST /exspenses_java_project/SignUpPath HTTP/1.1" 200 3607
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:42 -0700] "POST /exspenses_java_project/SignUpPath HTTP/1.1" 200 3607
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:09:50:43 -0700] "POST /exspenses_java_project/SignInPath HTTP/1.1" 200 1897
+127.0.0.1 - - [24/Apr/2016:10:07:24 -0700] "GET / HTTP/1.1" 200 11418
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:10:07:25 -0700] "GET /exspenses_java_project/signIn.jsp HTTP/1.1" 200 1897
+127.0.0.1 - - [24/Apr/2016:10:51:42 -0700] "GET / HTTP/1.1" 200 11418
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:10:51:43 -0700] "GET /exspenses_java_project/signIn.jsp HTTP/1.1" 200 1895
+127.0.0.1 - - [24/Apr/2016:10:52:16 -0700] "GET / HTTP/1.1" 200 11418
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:10:52:17 -0700] "GET /exspenses_java_project/signIn.jsp HTTP/1.1" 200 1895
+0:0:0:0:0:0:0:1 - - [24/Apr/2016:10:53:20 -0700] "GET /exspenses_java_project/signIn.jsp HTTP/1.1" 200 1895
